@@ -1,0 +1,3 @@
+C:/Users/KyleR/OneDrive/UBC2021Spr/221/Lectures/src/cmake-build-debug-remote/CMakeFiles/src.dir
+C:/Users/KyleR/OneDrive/UBC2021Spr/221/Lectures/src/cmake-build-debug-remote/CMakeFiles/edit_cache.dir
+C:/Users/KyleR/OneDrive/UBC2021Spr/221/Lectures/src/cmake-build-debug-remote/CMakeFiles/rebuild_cache.dir
